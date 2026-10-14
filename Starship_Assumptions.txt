@@ -1,0 +1,10 @@
+BEECHCRAFT STARSHIP PRELIMINARY MODEL
+
+Published/proposal dimensions are used for baseline values.
+Main wing uses an equivalent trapezoid approximation.
+Main-wing taper ratio and sweep are assumed.
+Canard span and area are approximate reference values.
+Canard taper and sweep are assumed.
+The real Starship canard has variable sweep.
+Cruise CL calculation assumes sea-level density and 90% MTOW.
+This is not a validated aircraft performance prediction.
